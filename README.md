@@ -20,4 +20,4 @@ A proposta é simples: compartilhar os _scripts_ que geram o conteúdo publicado
 
 ## Contribuições
 
-Se tiver sugestões ou quiser colaborar, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
+Se tiver sugestões ou quiser colaborar, sinta-se à vontade para abrir uma _issue_.
