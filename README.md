@@ -1,8 +1,8 @@
-# Scripts de Postagens - Quartis Consultoria
+# _Scripts_ de Postagens - Quartis Consultoria
 
 Se você chegou aqui depois de ver uma publicação da @quartis.consultoria, este é o espaço onde os códigos por trás das postagens estão reunidos.
 
-A proposta é simples: compartilhar os scripts que geram o conteúdo publicado no Instagram, o que pode servir de inspiração para quem também trabalha com o R, dados e gráficos.
+A proposta é simples: compartilhar os _scripts_ que geram o conteúdo publicado no Instagram, o que pode servir de inspiração para quem também trabalha com o R, dados e gráficos.
 
 ## Estrutura do repositório
 
@@ -16,8 +16,8 @@ A proposta é simples: compartilhar os scripts que geram o conteúdo publicado n
 ## Objetivo
 
 - Mostrar como as postagens são feitas, do código ao resultado final
-- Incentivar a reutilização, adaptação e aprendizado a partir dos scripts
+- Incentivar a reutilização, adaptação e aprendizado a partir dos _scripts_
 
 ## Contribuições
 
-Se tiver sugestões ou quiser colaborar, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Se tiver sugestões ou quiser colaborar, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
