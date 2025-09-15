@@ -6,7 +6,7 @@ library(tidyverse)
 
 
 # Criar tibble
-dados_notas <- tibble(notas = c(0, 0, 1, 2, 2, 3, 4, 4, 5, 6, 10))
+dados_notas <- tibble(notas = c(0, 0, 1.5, 2, 2, 3, 4, 4, 5, 6, 10))
 
 # Visualizar o banco
 print(dados_notas)
@@ -23,17 +23,3 @@ ggplot(
     outlier.shape = 19, # formato do outlier
     outlier.size = 3 # tamanho do outlier
   )
-
-# Boxplot
-ggplot(
-  dados_notas,
-  aes(x = "Quartis consultoria", y = notas)) +
-  geom_boxplot(
-    width = 0.12,
-    colour = "#00ac86",
-    fill = "white",
-    outlier.colour = "#00ac86",
-    outlier.shape = 19,
-    outlier.size = 3
-  )
-
