@@ -20,6 +20,4 @@ boxplot(
   boxwex = 0.12, # largura da caixa
   staplewex = 1, # largura dos bigodes
   whisklty = 1, # estilo da linha dos bigodes
-  ylab = "Notas" # rótulo no eixo X
 )
-
